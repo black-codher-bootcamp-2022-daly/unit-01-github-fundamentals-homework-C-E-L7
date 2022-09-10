@@ -1,6 +1,8 @@
-# <u>carrera's Unit01-Github Fundamentals README.md assignment.</u>
+# <u>Carrera's Unit01-Github Fundamentals README.md assignment.</u>
 
-### Hello 😄 Thank you for taking the time to review my README markdown (README.md) file as part of my first assignment: **_Unit 01 Github Fundamentals_**.
+### Hello 😄
+
+### Thank you for taking the time to review my README markdown (README.md) file as part of my first assignment: **_Unit 01 Github Fundamentals_**.
 
 Below I have outlined a few of the topics I have learned so far as a student of the **_Black Codher Full-stack Developer Course_** and what I have found confusing or, for that matter, what still confuses me.🙃
 Below, I have listed what I have been taught as sub-sections and have provided a brief explanation for each topic to demonstrate my understanding of that particular learned topic.
